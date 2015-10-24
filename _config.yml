@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Mi-Citations
 locale:           en_US
-url:              
+url:
 
 
 # Jekyll configuration
@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  name: Roland van Laar
+  avatar: ProfilePicture.png
+  bio: "Entrepreneur in Education"
+  email:
+  disqus-shortname:
+  twitter: "@rvanlaar"
   facebook: #username
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: rvanlaar
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
