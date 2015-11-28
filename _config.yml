@@ -2,8 +2,7 @@
 
 title:            Mi-Citations
 locale:           en_US
-#url:              //rvanlaar.github.io/minimal-mistakes 
-baseurl:          minimal-mistakes
+url:              //rvanlaar.github.io/minimal-mistakes 
 
 
 # Jekyll configuration
