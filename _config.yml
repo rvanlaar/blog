@@ -2,11 +2,11 @@
 
 title:            Mi-Citations
 locale:           en_US
+url:              //rvanlaar.github.io/minimal-mistakes 
 
 
 # Jekyll configuration
 
-baseurl:     /minimal-mistakes
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
