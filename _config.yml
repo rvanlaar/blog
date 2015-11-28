@@ -2,8 +2,7 @@
 
 title:            Mi-Citations
 locale:           en_US
-#url:              /minimal-mistakes 
-baseurl: /fiets
+url:              /minimal-mistakes 
 
 
 # Jekyll configuration
