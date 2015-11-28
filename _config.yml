@@ -2,8 +2,7 @@
 
 title:            Mi-Citations
 locale:           en_US
-#url:              /minimal-mistakes 
-baseurl: '/example'
+url:              /minimal-mistakes 
 
 
 # Jekyll configuration
