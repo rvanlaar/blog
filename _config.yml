@@ -3,6 +3,7 @@
 title:            Mi-Citations
 locale:           en_US
 url:              //rvanlaar.github.io/minimal-mistakes 
+baseurl:	FIETS
 
 
 # Jekyll configuration
