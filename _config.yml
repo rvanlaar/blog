@@ -31,7 +31,7 @@ owner:
   bio: "Entrepreneur in Education"
   email:
   disqus-shortname:
-  twitter: "@rvanlaar"
+  twitter: rvanlaar
   facebook: #username
   google:
     plus: #username
@@ -42,7 +42,7 @@ owner:
   bing-verify:
   github: rvanlaar
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: rvanlaar
   xing: #username
   instagram: #username
   lastfm: #username
