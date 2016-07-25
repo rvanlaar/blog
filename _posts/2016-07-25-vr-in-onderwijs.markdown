@@ -11,7 +11,7 @@ date: 2016-07-23T17:00:00+00:00
 ---
 
 Afgelopen week schreef [Wouter Siebers](https://twitter.com/MC_Wouter) dit opinie artikel voor de volkskrant:
-[Pokémon Go roept op tot onderwijsvernieuwing](http://www.volkskrant.nl/opinie/pokemon-go-roept-op-tot-onderwijsvernieuwing~a4339768/)
+[Pokémon Go roept op tot onderwijsvernieuwing](http://www.volkskrant.nl/opinie/pokemon-go-roept-op-tot-onderwijsvernieuwing~a4339768/).
 Dit artikel riep om een reactie waarom het zo moeilijk is om te innoveren in het onderwijs.
 
 ## Waarom Pokémon Go oproept tot onderwijsvernieuwing en die er niet komt
