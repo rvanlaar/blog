@@ -55,7 +55,7 @@ This creates two files:
 
 If you want to self sign the request for use this:
 {% highlight bash %}
-openssl x509 -req -days 365 -in rsa.csr  -signkey rsa.key -out rsa.crt
+openssl x509 -req -days 365 -in rsa.csr  -signkey rsa.key -out rsa.crt -sha256
 {% endhighlight %}
 This gives you rsa.crt, your public key. This certificate is valid for a year.
 
